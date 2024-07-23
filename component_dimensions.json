@@ -1,22 +1,4 @@
 {
-    "simple_cta_component_1721725891.js": {
-        "id": "simple_cta_component_1721725891",
-        "name": "simple_cta_component",
-        "type": "containerComponent",
-        "metadata": {},
-        "w": 6,
-        "h": 6,
-        "x": 6,
-        "y": 0,
-        "i": "0",
-        "minW": 3,
-        "maxW": 12,
-        "minH": 1,
-        "moved": false,
-        "static": false,
-        "isDraggable": true,
-        "isResizable": true
-    },
     "contact_form_table_1721725951.js": {
         "id": "contact_form_table_1721725951",
         "name": "contact_form_table",
