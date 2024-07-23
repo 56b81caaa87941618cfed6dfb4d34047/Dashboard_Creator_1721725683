@@ -34,5 +34,23 @@
         "static": false,
         "isDraggable": true,
         "isResizable": true
+    },
+    "simple_header_component_1721726028.js": {
+        "id": "simple_header_component-dfe22ab9-0c28-391d-1bb0-521b948f800c",
+        "name": "simple_header_component",
+        "type": "containerComponent",
+        "metadata": {},
+        "w": 12,
+        "h": 2,
+        "x": "100",
+        "y": "10",
+        "i": "__dropping-elem__",
+        "minW": 3,
+        "maxW": 12,
+        "minH": 1,
+        "moved": false,
+        "static": false,
+        "isDraggable": true,
+        "isResizable": true
     }
 }
