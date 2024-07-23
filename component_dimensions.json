@@ -16,5 +16,23 @@
         "static": false,
         "isDraggable": true,
         "isResizable": true
+    },
+    "echarts_bar_chart_1721726018.js": {
+        "id": "echarts_bar_chart-931eb5b8-db33-27a6-0f0f-96c58d58f576",
+        "name": "echarts_bar_chart",
+        "type": "containerComponent",
+        "metadata": {},
+        "w": 7,
+        "h": 7,
+        "x": "50",
+        "y": "50",
+        "i": "__dropping-elem__",
+        "minW": 3,
+        "maxW": 12,
+        "minH": 1,
+        "moved": false,
+        "static": false,
+        "isDraggable": true,
+        "isResizable": true
     }
 }
